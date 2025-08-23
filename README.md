@@ -1,5 +1,5 @@
 
-# 👋 Hey there! I'm a Front-End Full-Stack Developer
+# 👋 Hey there! I'm a Front-End / Full-Stack Developer
 
 ```typescript
 const developer = {
